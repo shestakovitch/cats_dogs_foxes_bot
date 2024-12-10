@@ -1,7 +1,28 @@
 ## Cats, dogs and foxes bot
 This telegram bot can send you a picture or gif of cat dog or fox of your choice
 
+## Installation
+
+Cloning a repository:
+
+```git clone https://github.com/shestakovitch/Django_weather_app.git```
+
+Creating virtual environment:
+
+```python3 -m venv venv```
+
+
+Activating the virtual environment:
+
+```source venv/bin/activate```
+
+Installing the required packages from requirements.txt﻿:
+
+```pip3 install -r requirements.txt```
+
 You should register a new bot in @BotFather
+
+Create ".env" file and put API Token on it
 
 ### Examples
 
