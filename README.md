@@ -1,5 +1,5 @@
 ## Cats, dogs and foxes bot
-This telegram bot can send you a picture or gif of cat dog or fox of your choice
+This telegram bot can send you a picture or gif of a cat dog or fox of your choice
 
 ## Installation
 
