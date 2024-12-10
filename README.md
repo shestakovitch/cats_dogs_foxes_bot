@@ -3,7 +3,7 @@ This telegram bot can send you a picture or gif of cat dog or fox of your choice
 
 You should register a new bot in @BotFather
 
-# Examples
+### Examples
 
 <img src="https://github.com/user-attachments/assets/c8e543ca-773d-4595-b6da-cd594921b68a" width="300">
 <p></p>
