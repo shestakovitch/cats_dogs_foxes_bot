@@ -5,7 +5,7 @@ This telegram bot can send you a picture or gif of a cat dog or fox of your choi
 
 Cloning a repository:
 
-```git clone https://github.com/shestakovitch/Django_weather_app.git```
+```git clone https://github.com/shestakovitch/cats_dogs_foxes_bot.git```
 
 Creating virtual environment:
 
